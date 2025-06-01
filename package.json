@@ -1,0 +1,24 @@
+{
+  "name": "@alexnolan/webtb",
+  "appName": "WebTB",
+  "version": "0.0.1",
+  "description": "Generic Website Injector app with adblocker",
+  "packageType": "mods",
+  "websiteURL": "https://www.amazon.co.uk/Amazon-Video/b?&node=3010085031",
+  "main": "scripts/userScript.js",
+  "author": "Owen The Kid / Alex Nolan",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "repository": {
+    "url": "https://github.com/alexnolan/webtb"
+  },
+  "license": "GPL-3.0-only"
+}
