@@ -1,8 +1,8 @@
 {
-  "name": "@alexnolan/webtb",
-  "appName": "WebTB",
+  "name": "@alexnolan/auk",
+  "appName": "Amazon Prime Video UK",
   "version": "0.0.1",
-  "description": "Generic Website Injector app with adblocker",
+  "description": "Prime Video without the adverts",
   "packageType": "mods",
   "websiteURL": "https://www.amazon.co.uk/Amazon-Video/b?&node=3010085031",
   "main": "scripts/userScript.js",
@@ -18,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/alexnolan/webtb"
+    "url": "https://github.com/alexnolan/auk"
   },
   "license": "GPL-3.0-only"
 }
